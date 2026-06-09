@@ -16,7 +16,7 @@
 - **Multimodal Perspective**: Rather than treating FTIR spectra and component indicators separately, the paper attempts to model their correlation and complementary information.
 Demonstrating a strong latent relationship between FTIR spectral representations and milk compositional parameters through PCA-based correlation analysis, motivating the integration of both modalities.
 
-- **MultiModal Development**: We propose **ADXpertNet**, which extracts both global and local enhanced representations from milk spectra and component data separately and fuses them to capture meaningful features and complex relationships between the two modalities. The framework offers a novel perspective on bridging the gap between modalities by representing spectral data as sequential rather than image data.
+- **ADXpertNet**: It extracts both global and local enhanced representations from milk spectra and component data separately and fuses them to capture meaningful features and complex relationships between the two modalities. The framework offers a novel perspective on bridging the gap between modalities by representing spectral data as sequential rather than image data.
 
 - **Implementation and Evaluation**: Comprehensive experiments on four publicly available datasets demonstrate that ADXpertNet consistently outperforms benchmark models and baseline approaches. Our paper includes a reasonably broad experimental evaluation, including binary and multi-class classification, comparisons with several ML/DL baselines, robustness analysis with noise injection, and some cross-domain/generalization experiments.
 
