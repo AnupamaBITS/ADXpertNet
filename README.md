@@ -2,7 +2,7 @@
 ![ECML-PKDD 2026](https://img.shields.io/badge/ECML--PKDD%202026-Accepted-success)
 [![Code License](https://img.shields.io/badge/Code%20License-MIT-blue)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-ee4c2c?logo=pytorch)](https://pytorch.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.6.0%2B-ee4c2c?logo=pytorch)](https://pytorch.org/)
 
 
 <p align="center">
