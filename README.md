@@ -48,10 +48,7 @@ If you use **ADXpertNet** or the accompanying benchmarking code in your research
 ```bibtex
 @inproceedings{adxpertnet,
   title     = {ADXpertNet: Deep Learning Approach for Capturing Local and Global Spatial Relationships Between FTIR Spectra and Component Data of Milk for Adulterant Detection},
-  author    = {Anupama and
-               Goyal Poonam, Desai Aniruddha,
-               Dhanabalan Sundar Shanmuga and
-               Goyal, Navneet},
+  author    = {Anupama and Goyal Poonam, Desai Aniruddha, Dhanabalan Sundar Shanmuga and Goyal, Navneet},
   booktitle = {Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD)},
   year      = {2026},
   note      = {To appear}
