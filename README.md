@@ -20,8 +20,6 @@ Demonstrating a strong latent relationship between FTIR spectral representations
 
 - **Implementation and Evaluation**: Comprehensive experiments on four publicly available datasets demonstrate that ADXpertNet consistently outperforms benchmark models and baseline approaches. Our paper includes a reasonably broad experimental evaluation, including binary and multi-class classification, comparisons with several ML/DL baselines, robustness analysis with noise injection, and some cross-domain/generalization experiments.
 
-## Dataset 
-
 ## Dataset Source and Attribution
 
 The dataset included in this repository is derived from a publicly available dataset originally released by the respective authors.
