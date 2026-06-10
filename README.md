@@ -24,7 +24,7 @@ Demonstrating a strong latent relationship between FTIR spectral representations
 
 ## Dataset Source and Attribution
 
-The dataset included in this repository is derived from a publicly available dataset originally released by the respective authors/maintainers.
+The dataset included in this repository is derived from a publicly available dataset originally released by the respective authors.
 
 To facilitate reproducibility and compatibility with our framework, we provide a processed version of the dataset. The released version retains the original data records but excludes a subset of columns that were not required for our experiments.
 
