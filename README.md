@@ -20,9 +20,23 @@ Demonstrating a strong latent relationship between FTIR spectral representations
 
 - **Implementation and Evaluation**: Comprehensive experiments on four publicly available datasets demonstrate that ADXpertNet consistently outperforms benchmark models and baseline approaches. Our paper includes a reasonably broad experimental evaluation, including binary and multi-class classification, comparisons with several ML/DL baselines, robustness analysis with noise injection, and some cross-domain/generalization experiments.
 
+## Dataset 
 
+## Dataset Source and Attribution
 
- 
+The dataset included in this repository is derived from a publicly available dataset originally released by the respective authors/maintainers.
+
+To facilitate reproducibility and compatibility with our framework, we provide a processed version of the dataset. The released version retains the original data records but excludes a subset of columns that were not required for our experiments.
+
+We gratefully acknowledge the original dataset creators for making the data publicly available.
+
+**Original Dataset Source:**
+
+* Authors: Habib Asseiss Neto et al.
+* URL: [\[Original Dataset URL\]](https://static-content.springer.com/esm/art%3A10.1186%2Fs13040-019-0200-5/MediaObjects/13040_2019_200_MOESM2_ESM.csv)
+* Citation: Neto, Habib Asseiss, et al. "On the utilization of deep and ensemble learning to detect milk adulteration." BioData Mining 12.1 (2019): 13.
+
+Users of this repository should cite both the original dataset publication and our work when using the processed dataset provided here.
 
 ## Environment Setup
 
